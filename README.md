@@ -1,5 +1,6 @@
 ### About me
-Wojciech is a PhD student at **[NTNU](https://www.ntnu.no/)
+Hi! I'm a PhD student currently living and studying at [NTNU](https://www.ntnu.no/). 
+Moreover, I work as a researcher in [SINTEF](https://sintef.no/), where I focus on developing the Digital Twin concept. I have a broad experience in the BIM domain, working as a BIM Manager on diverse and multidisciplinary projects.
 
 <!--
 **wojciechteclaw/wojciechteclaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
