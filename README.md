@@ -1,4 +1,5 @@
-### Hi there 👋
+### About me
+Wojciech is a PhD student at **[NTNU](https://www.ntnu.no/)
 
 <!--
 **wojciechteclaw/wojciechteclaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
