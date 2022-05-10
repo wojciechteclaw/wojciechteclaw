@@ -5,9 +5,8 @@ Moreover, I work as a researcher in [SINTEF](https://sintef.no/), where I focus 
 ### Contact me
 [LinkedIn](https://www.linkedin.com/in/wojciech-teclaw/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojciechteclaw&layout=compact&count_private=true&show_icons=true&&theme=merko)](https://github.com/wojciechteclaw)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wojciechteclaw&repo=github-readme-stats)](https://github.com/wojciechteclaw)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojciechteclaw&count_private=true&show_icons=true&langs_count=6&&theme=merko)](https://github.com/wojciechteclaw)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wojciechteclaw&count_private=true&show_icons=true&theme=merko)](https://github.com/wojciechteclaw)
 
